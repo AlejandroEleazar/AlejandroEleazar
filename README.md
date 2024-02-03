@@ -1,6 +1,7 @@
 ### Hi, I'm Alejandro 👋
 
-<!--
+[Untitled image](https://github.com/AlejandroEleazar/AlejandroEleazar/assets/156073754/0ab317c3-814d-4e74-9ae1-e7b9ae58b86d)
+
 **AlejandroEleazar/AlejandroEleazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
