@@ -1,6 +1,6 @@
 ### Hi, I'm Alejandro 👋
 
-##About me
+About me
 ---
 <!--
 
