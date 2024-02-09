@@ -1,6 +1,8 @@
 <div align="center">
 <h1 align="center">Hi, I'm Alejandro👋</h1>
 </div>
+<br>
+<br>
 
 ## About me
 -
