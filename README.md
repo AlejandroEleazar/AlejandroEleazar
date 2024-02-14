@@ -5,9 +5,9 @@
 <br>
 
 ## About me
--
--
--
+- 💻   💻 
+- 🌱 I’m currently learning Java 🌱
+- ⚡ Future SoftWare Ingenier ⚡
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
