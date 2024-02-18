@@ -7,7 +7,7 @@
 ## 💫 &nbsp;About me
 - 📖 Studying DAM 📖 
 - 🌱 I’m currently learning Java 🌱
-- ⚡ Future SoftWare Ingenier ⚡
+- ⚡ Future Software Ingenier ⚡
 <br>
 
 ## 💻 Tech Stack
