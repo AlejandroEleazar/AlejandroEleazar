@@ -12,8 +12,11 @@
 
 ## 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
 <br>
 <br>
+
 ## 📊 &nbsp;GitHub Analytics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroEleazar&show_icons=true&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroEleazar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -33,7 +36,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- ⚡ Fun fact:...
 
 -->
