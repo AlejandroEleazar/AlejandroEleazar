@@ -3,9 +3,11 @@
 </p>
 
 ## 💫 &nbsp;About me
-- 📖 Studying DAM 📖 
+- 📖 Studying DAM 📖
 - 🌱 I’m currently learning Java 🌱
-- ⚡ Future Software engineer ⚡
+- 🇬🇧 Improving my English skills 🇬🇧
+- 🇨🇳 Learning Chinese 🇨🇳
+- ⚡ Future Software Engineer ⚡
 <br>
 
 ## 💻 Tech Stack
