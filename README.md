@@ -1,11 +1,6 @@
 <p align="center">
-  <img src="" width="100%" alt="Hi, I'm Alejandro">
+  <img src="banner.png" width="100%" alt="Hi, I'm Alejandro">
 </p>
-<div align="center">
-<h1 align="center">Hi, I'm Alejandro👋</h1>
-</div>
-<br>
-<br>
 
 ## 💫 &nbsp;About me
 - 📖 Studying DAM 📖 
